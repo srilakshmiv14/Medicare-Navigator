@@ -1,5 +1,4 @@
-# Medicare-Navigato
-Clinical Decision Support System with Interpretable AI
+
 # MediCare Navigator 🏥🤖
 
 > **AI-Powered Clinical Decision Support System**  
